@@ -1,4 +1,5 @@
 # AsthmaPrediction_2024
+Check out my kaggle notebook for asthma prediction, received a bronze medal for the contribution https://www.kaggle.com/code/naniruddhan/asthmaprediction-gnb-balanced-smote
 This repository contains the Prediction of asthma disease in a person with 28 dependent features, of the newest 2024 asthma data imported form kaggle. 
 
 # About Dataset
